@@ -1,0 +1,14 @@
+{
+  "name": "async-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Suprita Shankar",
+  "license": "MIT",
+  "dependencies": {
+    "xhr": "^2.0.2"
+  }
+}
